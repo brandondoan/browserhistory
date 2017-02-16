@@ -1,8 +1,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  color: darkblue;
+  color: white;
   margin: 10px 50px 10px 50px;
-  background-color: Ivory;
+  background-color: Black;
 }
 
 h1, h2 {
@@ -18,17 +18,18 @@ img {
   float: left;
   width: 300px;
   padding: 1em;
+  margin-right: 40px;
+  margin-left: 50px;
 }
 
 .right {
-  float: right;
+  float: left;
   width: 300px;
   padding: 1em;
 }
 
 .middle {
-  margin-left: 300px;
-  margin-right: 300px;
+  float: left;
   width: 300px;
   padding: 1em;
 }
